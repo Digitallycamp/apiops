@@ -1,3 +1,5 @@
+# LEARN RESOURCES
+https://learn.microsoft.com/en-us/azure/architecture/example-scenario/devops/automated-api-deployments-apiops
 <img src="assets/images/apim-logo-transparent.png">
 
 #  Code Of Conduct
