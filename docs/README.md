@@ -1,5 +1,7 @@
 # LEARN RESOURCES
+### What is RPA?
 https://learn.microsoft.com/en-us/azure/architecture/example-scenario/devops/automated-api-deployments-apiops
+### Automate API deployments with APIOps
 https://www.microsoft.com/en-us/power-platform/products/power-automate/topics/robotic-process-automation/what-is-rpa
 
 <img src="assets/images/apim-logo-transparent.png">
